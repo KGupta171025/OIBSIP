@@ -60,8 +60,8 @@ The goal of this internship is to gain practical experience in **AI, Machine Lea
 ---
 
 ## 🔗 Connect With Me
-- GitHub: https://github.com/your-username  
-- LinkedIn: (Add your profile link)
+- GitHub: https://github.com/KGupta171025/OIBSIP
+- LinkedIn: https://www.linkedin.com/in/krishnaofficialgupta/
 
 ---
 
