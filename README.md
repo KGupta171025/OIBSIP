@@ -35,6 +35,13 @@ The goal of this internship is to gain practical experience in **AI, Machine Lea
 
 ---
 
+### 🔹 Task 4: Car Price Prediction with Machine Learning
+- Description: Predicts used car selling prices based on physical features, historical usage, and metadata. Compares Linear Regression, Decision Tree, Random Forest, and Gradient Boosting.
+- Tech Used: Python, Scikit-learn, Pandas, Seaborn, Matplotlib, Gradient Boosting Regressor
+- Status: ✅ Completed (96.17% R² Score)
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas  
