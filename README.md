@@ -28,10 +28,10 @@ The goal of this internship is to gain practical experience in **AI, Machine Lea
 
 ---
 
-### 🔹 Task 3: (Project Name)
-- Description: Short explanation
-- Tech Used: 
-- Status: ⏳ In Progress
+### 🔹 Task 3: Unemployment Analysis with Python
+- Description: Analyzes India's unemployment rate trends, geographical divisions, rural vs. urban contrasts, and evaluates the severe impact of the 2020 COVID-19 lockdown.
+- Tech Used: Python, Pandas, Seaborn, Matplotlib
+- Status: ✅ Completed
 
 ---
 
