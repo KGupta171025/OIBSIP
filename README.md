@@ -14,24 +14,24 @@ The goal of this internship is to gain practical experience in **AI, Machine Lea
 
 ## 📂 Projects / Tasks
 
-### 🔹 Task 1: (Project Name)
-- Description: Short explanation of the project
-- Tech Used: Python, Pandas, etc.
-- Status: ✅ Completed / ⏳ In Progress
+### 🔹 Task 1: Email Spam Detection
+- Description: Classifies email/SMS messages into Ham or Spam using TF-IDF representation. Compares MultinomialNB, Logistic Regression, Linear SVM, and Random Forest. Successfully resolves phishing/urgent message classification.
+- Tech Used: Python, Scikit-learn, Pandas, Seaborn, Matplotlib, LinearSVC
+- Status: ✅ Completed (97.94% Accuracy)
 
 ---
 
-### 🔹 Task 2: (Project Name)
-- Description: Short explanation
-- Tech Used: 
-- Status: 
+### 🔹 Task 2: Iris Flower Classification
+- Description: Predicts the species of Iris flowers (Setosa, Versicolor, Virginica) using sepal and petal measurements. Compares Logistic Regression, KNN, SVM, and Random Forest.
+- Tech Used: Python, Scikit-learn, Pandas, Seaborn, Matplotlib, SVM (RBF Kernel)
+- Status: ✅ Completed (96.67% Accuracy)
 
 ---
 
 ### 🔹 Task 3: (Project Name)
 - Description: Short explanation
 - Tech Used: 
-- Status: 
+- Status: ⏳ In Progress
 
 ---
 
