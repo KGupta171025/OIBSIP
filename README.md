@@ -42,6 +42,13 @@ The goal of this internship is to gain practical experience in **AI, Machine Lea
 
 ---
 
+### 🔹 Task 5: Sales Prediction using Python
+- Description: Predicts product sales based on advertising budgets spent on TV, Radio, and Newspaper. Compares Linear Regression, Decision Tree, Random Forest, and Gradient Boosting.
+- Tech Used: Python, Scikit-learn, Pandas, Seaborn, Matplotlib, Gradient Boosting Regressor
+- Status: ✅ Completed (98.31% R² Score)
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas  
